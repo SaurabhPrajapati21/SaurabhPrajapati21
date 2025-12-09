@@ -29,47 +29,52 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools (Data Analyst):</h3>
-<p align="left"> 
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
- </a> 
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://static.cdnlogo.com/logos/p/3/pandas.svg" width="40" height="40"/> 
- </a>
- <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40"/> 
- </a>
- <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://matplotlib.org/stable/_static/logo2.svg" width="40" height="40"/> 
- </a>
- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40"/> 
- </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
- </a>
- <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40"/> 
- </a>
- <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40"/> 
- </a>
- <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="40" height="40"/> 
- </a>
-</p>
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
 
----
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhprajapati21&show_icons=true&locale=en&layout=compact" alt="saurabhprajapati21" />
-</p>
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhprajapati21&show_icons=true&locale=en" alt="saurabhprajapati21" />
-</p>
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</a>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhprajapati21&" alt="saurabhprajapati21" />
+<!-- SQL / MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<!-- Excel -->
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="excel" width="40" height="40"/>
+</a>
+
+<!-- Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg" alt="powerbi" width="40" height="40"/>
+</a>
+
+<!-- Tableau -->
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+</a>
+
+<!-- Matplotlib -->
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" alt="matplotlib" width="40" height="40"/>
+</a>
+
+<!-- Seaborn -->
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" alt="seaborn" width="40" height="40"/>
+</a>
+
 </p>
