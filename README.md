@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Saurabh Prajapati</h1>
 <h3 align="center">A passionate Data Analyst exploring insights through data</h3>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400">
+<img src="https://raw.githubusercontent.com/SaurabhPrajapati21/SaurabhPrajapati21/ff24f05aa2a3a2e0319e32452c93d09aca694cfe/wmremove-transformed.png" width="100%" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhprajapati21&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhprajapati21" /> </p>
 
