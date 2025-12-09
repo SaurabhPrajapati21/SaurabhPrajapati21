@@ -126,12 +126,16 @@ Currently improving my skills in **SQL, Python, and Power BI**, and building rea
 ---
 
 ## 📈 GitHub Stats
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhprajapati21&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaurabhPrajapati21&show_icons=true&locale=en&layout=compact" alt="top-langs" />
 </p>
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhprajapati21&show_icons=true&locale=en" alt="stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaurabhPrajapati21&show_icons=true&locale=en" alt="stats" />
 </p>
 
-<p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhPrajapati21" alt="streak" />
+</p>
+
