@@ -14,13 +14,58 @@
  </a> 
 </p>
 
-- 📊 I work with **Python, Pandas, NumPy, SQL, Excel, Power BI**
-- 💬 Ask me about **Data Cleaning, Data Visualization, EDA, Dashboards**
-- 📫 How to reach me **saurabhprajapati7378@gmail.com**
+---
+
+## 👨‍💻 About Me
+I am a passionate Data Analyst who loves transforming raw data into meaningful insights.  
+I enjoy working with datasets, creating dashboards, cleaning data, and discovering trends that help businesses make better decisions.  
+Currently improving my skills in **SQL, Python, and Power BI**, and building real-world data analytics projects.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🎖️ Skill Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
+---
+
+## 🛠️ Tools & Technologies Overview
+
+### 🔹 Programming & Libraries
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+### 🔹 Databases
+- MySQL  
+- SQL Server  
+- PostgreSQL (beginner)
+
+### 🔹 Data Visualization
+- Power BI  
+- Tableau  
+- Excel (Pivot Tables, Charts, Power Query)
+
+### 🔹 Skills & Techniques
+- Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Data Modeling  
+- Dashboard Building  
+- Reporting & Insights  
+- Statistical Analysis  
+
+### 🔹 Other Tools
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 🌐 Connect with me:
 <p align="left">
 <a href="https://twitter.com/sprajapati21775" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
@@ -38,7 +83,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+## 🧰 Languages & Tools (Icons)
 <p align="left">
 
 <!-- Python -->
@@ -77,3 +122,16 @@
 </a>
 
 </p>
+
+---
+
+## 📈 GitHub Stats
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhprajapati21&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+</p>
+
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhprajapati21&show_icons=true&locale=en" alt="stats" />
+</p>
+
+<p>
