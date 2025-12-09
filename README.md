@@ -1,6 +1,6 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saurabh Prajapati</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst exploring insights through data</h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400">
 
@@ -12,7 +12,6 @@
  </a> 
 </p>
 
-- 🔍 I’m currently learning **Advanced SQL & Power BI**
 - 📊 I work with **Python, Pandas, NumPy, SQL, Excel, Power BI**
 - 💬 Ask me about **Data Cleaning, Data Visualization, EDA, Dashboards**
 - 📫 How to reach me **saurabhprajapati7378@gmail.com**
@@ -67,14 +66,6 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/>
 </a>
 
-<!-- Matplotlib -->
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matplotlib.svg" alt="matplotlib" width="40" height="40"/>
-</a>
 
-<!-- Seaborn -->
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/seaborn.svg" alt="seaborn" width="40" height="40"/>
-</a>
 
 </p>
