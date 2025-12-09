@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
+[![MasterHead]([https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif](https://raw.githubusercontent.com/SaurabhPrajapati21/SaurabhPrajapati21/ff24f05aa2a3a2e0319e32452c93d09aca694cfe/wmremove-transformed.png))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saurabh Prajapati</h1>
 <h3 align="center">A passionate Data Analyst exploring insights through data</h3>
 
